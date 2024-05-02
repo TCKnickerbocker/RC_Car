@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/RC2.X.debug.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>1780</used>                     
+      <free>30988</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>4096</length>                 
+      <used>13</used>                     
+      <free>4083</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
