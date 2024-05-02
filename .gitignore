@@ -1,0 +1,7 @@
+.generated_files
+/build
+/debug
+/dist
+/nbproject
+*.log
+*.log.*
