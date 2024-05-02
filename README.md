@@ -14,10 +14,10 @@
 - printing: print statements that output via putty & xquartz when the project is run (utilizes USART2)
 
 ## Design Pictures:
-![Aerial View of Car](img/Aerial_View.jpg.png)
-![Side View of Car](img/Side_View.jpg.png)
-![Controller View of Car](img/Controller_View.jpg.png)
-![Power View of Car](img/Underneath_View.jpg.png)
+![Aerial View of Car](img/Aerial_View.jpg)
+![Side View of Car](img/Side_View.jpg)
+![Controller View of Car](img/Controller_View.jpg)
+![Power View of Car](img/Underneath_View.jpg)
 
 **Rudimentary Board Design:**
 ![Pictures of an RC Car](img/RC_Car_Circuitv2.png)
