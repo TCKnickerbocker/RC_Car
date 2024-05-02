@@ -13,14 +13,16 @@
 - rtc: sets up periodic interrupts
 - printing: print statements that output via putty & xquartz when the project is run (utilizes USART2)
 
-## Design Pictures:
+**Rudimentary Board Design:**
+![Pictures of an RC Car](img/RC_Car_Circuitv2.png)
+**Note that the small upper breadboard is not currently used**
+
+## Implementation Pictures:
 ![Aerial View of Car](img/Aerial_View.jpg)
 ![Side View of Car](img/Side_View.jpg)
 ![Controller View of Car](img/Controller_View.jpg)
-![Power View of Car](img/Underneath_View.jpg)
+![Power View of Car](img/Inside_View.jpg)
 
-**Rudimentary Board Design:**
-![Pictures of an RC Car](img/RC_Car_Circuitv2.png)
 
 ## Parts List:
 
