@@ -1,6 +1,6 @@
 # RC Car
 ## Thomas Knickerbocker
-### Built in MPLAB X IDE v6.15
+### Built with MPLAB X IDE v6.15
 
 ## Overview:
 - This project is a simple RC car. It is composed of an AVR-BLE development board set into a breadboard with lights, speakers, and motor control. There is a controller wired into the board that communicates to it via I2C, and has an LCD display showing the degree to which the user has moved the joystick in the forward/backward direction (from -100 to 100). Pushing down on the joystick activates the horn, and the motor direction can be easily controlled by writing a 0/1/2 to one of the car's UUID characteristics via the LightBlue App.
